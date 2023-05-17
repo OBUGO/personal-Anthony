@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(170, 0, 255);
+}
+li{
+  color: yellow;
+}
+.header1{
+  color: black;
+}
+header2{
+ color: black;
+}
+p{color: white;
+    font-size: 60px;
+    background: black;
+}
+ h2{
+    color:white;
+    background-color: brown;
+ }   
+  img{
+    width: 400px;
+    border: 2px solid red;
+  height: 400px;
+  margin-left: 200px;
+  border: solid ;
+  border-radius: 50%;
+  }
+  p{
+    color: white;
+    background-color: blue;
+    
+  }
+  
+  
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+
+
+
+  
+
+ 
